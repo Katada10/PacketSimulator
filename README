@@ -1,0 +1,11 @@
+Running the program using CMD:
+
+- Compile both files using "javac PacketReceiver.java" and "javac PacketSender.java" (If not already compiled, .class files should be there)
+- Run receiver first using "java PacketReceiver" and then run sender by "java PacketSender"
+- The sender will prompt for a server IP (machine IP) and then prompt for a payload. 
+
+
+
+Running using Eclipse:
+
+- Run the receiver first then run the sender, you will be prompted for ip and data. 
